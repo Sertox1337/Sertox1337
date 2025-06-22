@@ -7,7 +7,7 @@
 
 ## 🌐 Online & Vernetzt
 
-[![Discord](https://img.shields.io/discord/907742604953804811?style=flat-square&logo=discord&label=Discord)](https://discord.gg/Pu6DaADneY)
+[![Discord](https://img.shields.io/discord/907742604953804811?style=flat-square&logo=discord&label=Discord)](https://discord.gg/tMVYJebch3)
 [![YouTube](https://img.shields.io/badge/YouTube-sertoxdev-red?style=flat-square&logo=youtube)](https://www.youtube.com/@sertoxdev)
 [![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=Website&style=flat-square&up_color=darkgreen&up_message=Online&url=https%3A%2F%2Finfinity-solutions.es)](https://www.sertox.dev)
 [![GitHub Followers](https://img.shields.io/github/followers/Sertox1337?style=flat-square&logo=github)](https://github.com/Sertox1337)
@@ -40,8 +40,7 @@ Ich arbeite derzeit an einer modernen **Webplattform**, die Kreativen und Sammle
 - 🗂️ **Alle Inhalte werden in übersichtlichen Cards dargestellt** – mit Titel, Beschreibung und Download-Link  
 - ✏️ Geteilte Inhalte können **bearbeitet und aktualisiert** werden  
 
-📌 **Aktueller Stand:** Konzeptphase und erste technische Umsetzung  
-[![Sentinel Studios – Community beitreten](https://img.shields.io/badge/Sentinel_Studios-Discord_Community-orange?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tMVYJebch3)
+📌 **Aktueller Stand:** Konzeptphase und erste technische Umsetzung
 
 ---
 
