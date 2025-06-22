@@ -28,21 +28,22 @@
 
 ---
 
-## 🚀 Aktuell in Entwicklung
+## 🚧 In Arbeit: Community-Webplattform
 
-### 🎮 **Sentinel Studios** – Kreativplattform mit Discord-Login *(in Planung)*
+### 🎮 **Sentinel Studios** – Kreative One-Page-Plattform mit Discord-Login *(in Planung)*
 
-Ich arbeite aktuell an einem Webprojekt mit dem Ziel, eine **Community-Plattform** zu schaffen, auf der Nutzer:
+Ich arbeite derzeit an einer modernen **Webplattform**, die Kreativen und Sammlern eine einfache Möglichkeit bietet, Inhalte auszutauschen. Die wichtigsten Funktionen:
 
-- 🔐 sich per **Discord Login** authentifizieren können  
-- 🧾 ein **eigenes Dashboard** erhalten  
-- 📤 **eigene Arbeiten hochladen** und der Community bereitstellen können  
-- ♻️ Inhalte anderer Nutzer entdecken und wiederverwenden können  
+- 🔐 **Login über Discord** zur schnellen und sicheren Anmeldung  
+- 📊 Ein personalisiertes **Dashboard** für jeden Nutzer  
+- 🔗 Möglichkeit, **eigene Links zu Inhalten** (z. B. auf MEGA, Google Drive, MediaFire usw.) mit der Community zu teilen  
+- 🗂️ **Alle Inhalte werden in übersichtlichen Cards dargestellt** – mit Titel, Beschreibung und Download-Link  
+- ✏️ Geteilte Inhalte können **bearbeitet und aktualisiert** werden  
 
-📌 **Status:** Aktuell in der Konzeptphase  
-📍 **Community & Austausch:** [Discord Server beitreten »](https://discord.gg/Pu6DaADneY)
+📌 **Aktueller Stand:** Konzeptphase und erste technische Umsetzung  
+📍 **Community & Feedback:** [Dem Discord-Server beitreten »](https://discord.gg/tMVYJebch3)
 
-[![Project: Sentinel Studios](https://img.shields.io/badge/Sentinel_Studios-Discord_Community-orange?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Pu6DaADneY)
+[![Sentinel Studios – Community beitreten](https://img.shields.io/badge/Sentinel_Studios-Discord_Community-orange?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tMVYJebch3)
 
 ---
 
