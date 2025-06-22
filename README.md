@@ -41,8 +41,6 @@ Ich arbeite derzeit an einer modernen **Webplattform**, die Kreativen und Sammle
 - ✏️ Geteilte Inhalte können **bearbeitet und aktualisiert** werden  
 
 📌 **Aktueller Stand:** Konzeptphase und erste technische Umsetzung  
-📍 **Community & Feedback:** [Dem Discord-Server beitreten »](https://discord.gg/tMVYJebch3)
-
 [![Sentinel Studios – Community beitreten](https://img.shields.io/badge/Sentinel_Studios-Discord_Community-orange?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tMVYJebch3)
 
 ---
