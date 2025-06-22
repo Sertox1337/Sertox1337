@@ -6,6 +6,10 @@
 ---
 
 ## 🌐 Online & Vernetzt
+https://img.shields.io/badge/Sentinel_Studios-Discord_Community-orange?style=for-the-badge&logo=discord&logoColor=white
+
+https://img.shields.io/discord/907742604953804811?style=flat-square&logo=discord&label=Discord
+[![Discord](https://img.shields.io/badge/Sentinel_Studios-Discord_Community-orange?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tMVYJebch3)
 
 [![Discord](https://img.shields.io/discord/907742604953804811?style=flat-square&logo=discord&label=Discord)](https://discord.gg/tMVYJebch3)
 [![YouTube](https://img.shields.io/badge/YouTube-sertoxdev-red?style=flat-square&logo=youtube)](https://www.youtube.com/@sertoxdev)
